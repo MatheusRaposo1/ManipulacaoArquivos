@@ -1,0 +1,11 @@
+C:\Curso\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe.config
+C:\Curso\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe
+C:\Curso\ArquivoPastas\Diretorio\bin\Debug\Diretorio.pdb
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.SuggestedBindingRedirects.cache
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Form1.resources
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.exe
+C:\Curso\ArquivoPastas\Diretorio\obj\Debug\Diretorio.pdb

@@ -1,0 +1,11 @@
+C:\Curso\ArquivoPastas\DirInfo\bin\Debug\DirInfo.exe.config
+C:\Curso\ArquivoPastas\DirInfo\bin\Debug\DirInfo.exe
+C:\Curso\ArquivoPastas\DirInfo\bin\Debug\DirInfo.pdb
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.csproj.AssemblyReference.cache
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.csproj.SuggestedBindingRedirects.cache
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.Form1.resources
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.Properties.Resources.resources
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.csproj.GenerateResource.cache
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.csproj.CoreCompileInputs.cache
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.exe
+C:\Curso\ArquivoPastas\DirInfo\obj\Debug\DirInfo.pdb

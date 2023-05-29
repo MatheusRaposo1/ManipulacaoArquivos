@@ -1,0 +1,11 @@
+C:\Curso\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe.config
+C:\Curso\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe
+C:\Curso\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.pdb
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.AssemblyReference.cache
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.SuggestedBindingRedirects.cache
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Form1.resources
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Properties.Resources.resources
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.GenerateResource.cache
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.CoreCompileInputs.cache
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.exe
+C:\Curso\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.pdb

@@ -1,0 +1,11 @@
+C:\Curso\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe.config
+C:\Curso\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.exe
+C:\Curso\ArquivoPastas\ArquivoInfo\bin\Debug\ArquivoInfo.pdb
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.AssemblyReference.cache
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.SuggestedBindingRedirects.cache
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Form1.resources
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.Properties.Resources.resources
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.GenerateResource.cache
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.csproj.CoreCompileInputs.cache
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.exe
+C:\Curso\ArquivoPastas\ArquivoInfo\obj\Debug\ArquivoInfo.pdb
